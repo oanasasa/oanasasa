@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on anything that is digital interesting
-- 📫 You can reach me on discord at oanasasa#2316
+- 📫 You can reach me on discord at oanasasa#2316 or email sasaran.oana@gmail.com
 
 <!---
 oanasasa/oanasasa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
