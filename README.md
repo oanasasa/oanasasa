@@ -1,6 +1,6 @@
 👋 Hi, I’m Oana
 
-👀 I’m interested in web development
+👀 I’m interested in software development
 
 🌱 I’m currently working with React.js and Next.js using TypeScript and Vite
 
